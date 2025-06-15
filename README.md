@@ -15,7 +15,7 @@ bun dev
 ```
 
 ## Cách sử dụng
-### Tạo đề thi trong notbook llm
+### Tạo đề thi trong notebook llm
 - Promt: 
 ```
 Giúp t xây dựng bộ  đề thi gồm 60 câu hỏi trắc nghiệm 4 lựa chọn để kiểm tra kết thúc môn học này.  hạn chế trùng lặp so với đề thi trước đó đã tạo trong ghi chú ( Nếu đã có ), đảm bảo chính xác.
