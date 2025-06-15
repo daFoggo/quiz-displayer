@@ -20,7 +20,7 @@ import {
   XCircle,
 } from "lucide-react";
 import { useEffect, useState } from "react";
-import { QUIZ_DATA as quizData } from "../utils/constants";
+import { DE_1 as quizData } from "../utils/constants";
 import type { QuizState } from "../utils/types";
 
 export default function QuizApp() {
